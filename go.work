@@ -1,0 +1,12 @@
+go 1.21.1
+
+use (
+	./AdapterPattern-go
+	./BuilderPattern-go
+	./DecoraterPattern-go
+	./FacadePattern-go
+	./FactoryPattern-go
+	./ObserverPattern-go
+	./SingletonPattern-go
+	./StrategyPattern-go
+)
